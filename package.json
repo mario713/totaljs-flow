@@ -10,7 +10,7 @@
     "total4": "latest"
   },
   "scripts": {
-    "start": "node index.js 8000"
+    "start": "npm i && node index.js 8000"
   },
   "keywords": [
     "flow",
